@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/tonyinfostorm/hellocommit/test/CheckHelloDisplay.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/test/java/com/tonyinfostorm/hellocommit/ExampleTest2.java">
           <value>
             <set />

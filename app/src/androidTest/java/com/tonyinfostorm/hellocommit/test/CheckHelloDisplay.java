@@ -1,8 +1,10 @@
 package com.tonyinfostorm.hellocommit.test;
 
-import com.tonyinfostorm.hellocommit.MainActivity;
-import com.robotium.solo.*;
 import android.test.ActivityInstrumentationTestCase2;
+
+import com.robotium.solo.Solo;
+import com.robotium.solo.Timeout;
+import com.tonyinfostorm.hellocommit.MainActivity;
 
 
 public class CheckHelloDisplay extends ActivityInstrumentationTestCase2<MainActivity> {
