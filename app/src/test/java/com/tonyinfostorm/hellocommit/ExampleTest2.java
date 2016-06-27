@@ -9,6 +9,6 @@ public class ExampleTest2 extends InstrumentationTestCase {
     public void testCase2(){
         final int expected = 1;
         final int reality = 1;
-        assertEquals(expected, reality);
+//        assertEquals(expected, reality);
     }
 }
